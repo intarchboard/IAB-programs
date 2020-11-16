@@ -303,7 +303,7 @@ The lead of Administrative Support Activity is usually performed by an IAB membe
 
 Membership is determined by the IAB and periodically reviewed. While the IAB will reevaluate the IAB members (and potentially the needed number of IAB members) yearly, usually at the March IETF meeting when the new IAB is seated, other members may have a longer fixed membership term, based on the needs of the respective activity. Membership is renewed by the IAB, potentially based on community feedback. If membership of a member is not renewed (as the member does not want to take another term or based on feedback) and a new member is to be selected, the IAB may run a call for volunteers, depending on the respective expertise needed, and should ask for community feedback before approval.
 
-Only members of an Administrative Support Activity are subscribed to the mailing list, however, anybody in the community should be able send to the group's mailing list in order to provide feedback. Announcements by an Administrative Support Activity can be sent directly to other mailings by the chair (e.g. architretucre-discuss@iab.org or ietf@ietf.org), or the group can request the IAB to make certain announcements if needed (e.g. on the ietf-announce@ietf.org list).
+Only members of an Administrative Support Activity are subscribed to the mailing list, however, anybody in the community should be able send to the group's mailing list in order to provide feedback. Announcements by an Administrative Support Activity can be sent directly to other mailings by the chair (e.g. architecture-discuss@iab.org or ietf@ietf.org), or the group can request the IAB to make certain announcements if needed (e.g. on the ietf-announce@ietf.org list).
 
 ### Meetings
 
